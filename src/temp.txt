@@ -1,0 +1,1829 @@
+Rules:
+
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+Humidity.high -> outlook.sunny ; temperature.hot
+
+Rule#
+temperature.hot -> outlook.sunny
+
+Rule#
+temperature.hot ; Humidity.high -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.hot
+
+Rule#
+outlook.sunny ; Humidity.high -> temperature.hot
+
+Rule#
+Windy.false -> outlook.sunny ; temperature.hot
+
+Rule#
+temperature.hot -> outlook.sunny
+
+Rule#
+temperature.hot ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.hot
+
+Rule#
+outlook.sunny ; Windy.false -> temperature.hot
+
+Rule#
+Humidity.high -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny
+
+Rule#
+temperature.mild ; Humidity.high -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild
+
+Rule#
+outlook.sunny ; Humidity.high -> temperature.mild
+
+Rule#
+Windy.false -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny
+
+Rule#
+temperature.mild ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild
+
+Rule#
+outlook.sunny ; Windy.false -> temperature.mild
+
+Rule#
+Windy.true -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny
+
+Rule#
+temperature.mild ; Windy.true -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild
+
+Rule#
+PlayTennis.P -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild
+
+Rule#
+Humidity.normal -> outlook.sunny ; temperature.cool
+
+Rule#
+temperature.cool -> outlook.sunny
+
+Rule#
+temperature.cool ; Humidity.normal -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.cool
+
+Rule#
+PlayTennis.P -> outlook.sunny ; temperature.cool
+
+Rule#
+temperature.cool -> outlook.sunny
+
+Rule#
+temperature.cool ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.cool
+
+Rule#
+Windy.false -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny
+
+Rule#
+Humidity.high ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high
+
+Rule#
+outlook.sunny ; Windy.false -> Humidity.high
+
+Rule#
+Windy.true -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny
+
+Rule#
+Humidity.high ; Windy.true -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high
+
+Rule#
+PlayTennis.N -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny
+
+Rule#
+Humidity.high ; PlayTennis.N -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high
+
+Rule#
+outlook.sunny ; PlayTennis.N -> Humidity.high
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny
+
+Rule#
+Humidity.high ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high
+
+Rule#
+Windy.false -> outlook.sunny ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.sunny
+
+Rule#
+Humidity.normal ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.normal
+
+Rule#
+outlook.sunny ; Windy.false -> Humidity.normal
+
+Rule#
+Windy.true -> outlook.sunny ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.sunny
+
+Rule#
+Humidity.normal ; Windy.true -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.sunny
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Windy.false
+
+Rule#
+Windy.false -> outlook.sunny
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> Windy.false
+
+Rule#
+PlayTennis.N -> outlook.sunny ; Windy.true 
+
+Rule#
+Windy.true -> outlook.sunny
+
+Rule#
+Windy.true ; PlayTennis.N -> outlook.sunny
+
+Rule#
+outlook.sunny -> Windy.true 
+
+Rule#
+outlook.sunny ; PlayTennis.N -> Windy.true 
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Windy.true 
+
+Rule#
+Windy.true -> outlook.sunny
+
+Rule#
+Windy.true ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> Windy.true 
+
+Rule#
+Humidity.high -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast
+
+Rule#
+temperature.mild ; Humidity.high -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild
+
+Rule#
+Windy.false -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast
+
+Rule#
+temperature.mild ; Windy.false -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild
+
+Rule#
+Windy.true -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast
+
+Rule#
+temperature.mild ; Windy.true -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild
+
+Rule#
+PlayTennis.P -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild
+
+Rule#
+outlook.overcast ; PlayTennis.P -> temperature.mild
+
+Rule#
+Humidity.normal -> outlook.overcast ; temperature.cool
+
+Rule#
+temperature.cool -> outlook.overcast
+
+Rule#
+temperature.cool ; Humidity.normal -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.cool
+
+Rule#
+PlayTennis.P -> outlook.overcast ; temperature.cool
+
+Rule#
+temperature.cool -> outlook.overcast
+
+Rule#
+temperature.cool ; PlayTennis.P -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.cool
+
+Rule#
+outlook.overcast ; PlayTennis.P -> temperature.cool
+
+Rule#
+Windy.false -> outlook.overcast ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.overcast
+
+Rule#
+Humidity.high ; Windy.false -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.high
+
+Rule#
+Windy.true -> outlook.overcast ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.overcast
+
+Rule#
+Humidity.high ; Windy.true -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.high
+
+Rule#
+PlayTennis.P -> outlook.overcast ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.overcast
+
+Rule#
+Humidity.high ; PlayTennis.P -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.high
+
+Rule#
+outlook.overcast ; PlayTennis.P -> Humidity.high
+
+Rule#
+Windy.false -> outlook.overcast ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.overcast
+
+Rule#
+Humidity.normal ; Windy.false -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.normal
+
+Rule#
+Windy.true -> outlook.overcast ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.overcast
+
+Rule#
+Humidity.normal ; Windy.true -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.overcast ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.overcast
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.normal
+
+Rule#
+outlook.overcast ; PlayTennis.P -> Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.overcast ; Windy.false
+
+Rule#
+Windy.false -> outlook.overcast
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.overcast
+
+Rule#
+outlook.overcast -> Windy.false
+
+Rule#
+outlook.overcast ; PlayTennis.P -> Windy.false
+
+Rule#
+PlayTennis.P -> outlook.overcast ; Windy.true 
+
+Rule#
+Windy.true -> outlook.overcast
+
+Rule#
+Windy.true ; PlayTennis.P -> outlook.overcast
+
+Rule#
+outlook.overcast -> Windy.true 
+
+Rule#
+outlook.overcast ; PlayTennis.P -> Windy.true 
+
+Rule#
+Windy.false -> outlook.rain ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.rain
+
+Rule#
+temperature.mild ; Windy.false -> outlook.rain
+
+Rule#
+outlook.rain -> temperature.mild
+
+Rule#
+outlook.rain ; Windy.false -> temperature.mild
+
+Rule#
+PlayTennis.P -> outlook.rain ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.rain
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.rain
+
+Rule#
+outlook.rain -> temperature.mild
+
+Rule#
+outlook.rain ; PlayTennis.P -> temperature.mild
+
+Rule#
+Windy.false -> outlook.rain ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.rain
+
+Rule#
+Humidity.normal ; Windy.false -> outlook.rain
+
+Rule#
+outlook.rain -> Humidity.normal
+
+Rule#
+outlook.rain ; Windy.false -> Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.rain ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.rain
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.rain
+
+Rule#
+outlook.rain -> Humidity.normal
+
+Rule#
+outlook.rain ; PlayTennis.P -> Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.rain ; Windy.false
+
+Rule#
+Windy.false -> outlook.rain
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.rain
+
+Rule#
+outlook.rain -> Windy.false
+
+Rule#
+outlook.rain ; PlayTennis.P -> Windy.false
+
+Rule#
+Windy.false -> temperature.hot ; Humidity.high
+
+Rule#
+Humidity.high -> temperature.hot
+
+Rule#
+Humidity.high ; Windy.false -> temperature.hot
+
+Rule#
+temperature.hot -> Humidity.high
+
+Rule#
+temperature.hot ; Windy.false -> Humidity.high
+
+Rule#
+Windy.false -> temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> temperature.mild
+
+Rule#
+Humidity.high ; Windy.false -> temperature.mild
+
+Rule#
+temperature.mild -> Humidity.high
+
+Rule#
+temperature.mild ; Windy.false -> Humidity.high
+
+Rule#
+Windy.true -> temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> temperature.mild
+
+Rule#
+Humidity.high ; Windy.true -> temperature.mild
+
+Rule#
+temperature.mild -> Humidity.high
+
+Rule#
+temperature.mild ; Windy.true -> Humidity.high
+
+Rule#
+PlayTennis.P -> temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> temperature.mild
+
+Rule#
+Humidity.high ; PlayTennis.P -> temperature.mild
+
+Rule#
+temperature.mild -> Humidity.high
+
+Rule#
+temperature.mild ; PlayTennis.P -> Humidity.high
+
+Rule#
+PlayTennis.P -> temperature.mild ; Windy.false
+
+Rule#
+Windy.false -> temperature.mild
+
+Rule#
+Windy.false ; PlayTennis.P -> temperature.mild
+
+Rule#
+temperature.mild -> Windy.false
+
+Rule#
+temperature.mild ; PlayTennis.P -> Windy.false
+
+Rule#
+PlayTennis.P -> temperature.mild ; Windy.true 
+
+Rule#
+Windy.true -> temperature.mild
+
+Rule#
+Windy.true ; PlayTennis.P -> temperature.mild
+
+Rule#
+temperature.mild -> Windy.true 
+
+Rule#
+temperature.mild ; PlayTennis.P -> Windy.true 
+
+Rule#
+PlayTennis.P -> temperature.cool ; Humidity.normal
+
+Rule#
+Humidity.normal -> temperature.cool
+
+Rule#
+Humidity.normal ; PlayTennis.P -> temperature.cool
+
+Rule#
+temperature.cool -> Humidity.normal
+
+Rule#
+temperature.cool ; PlayTennis.P -> Humidity.normal
+
+Rule#
+PlayTennis.P -> Humidity.high ; Windy.false
+
+Rule#
+Windy.false -> Humidity.high
+
+Rule#
+Windy.false ; PlayTennis.P -> Humidity.high
+
+Rule#
+Humidity.high -> Windy.false
+
+Rule#
+Humidity.high ; PlayTennis.P -> Windy.false
+
+Rule#
+PlayTennis.N -> Humidity.high ; Windy.true 
+
+Rule#
+Windy.true -> Humidity.high
+
+Rule#
+Windy.true ; PlayTennis.N -> Humidity.high
+
+Rule#
+Humidity.high -> Windy.true 
+
+Rule#
+Humidity.high ; PlayTennis.N -> Windy.true 
+
+Rule#
+PlayTennis.P -> Humidity.high ; Windy.true 
+
+Rule#
+Windy.true -> Humidity.high
+
+Rule#
+Windy.true ; PlayTennis.P -> Humidity.high
+
+Rule#
+Humidity.high -> Windy.true 
+
+Rule#
+Humidity.high ; PlayTennis.P -> Windy.true 
+
+Rule#
+PlayTennis.P -> Humidity.normal ; Windy.false
+
+Rule#
+Windy.false -> Humidity.normal
+
+Rule#
+Windy.false ; PlayTennis.P -> Humidity.normal
+
+Rule#
+Humidity.normal -> Windy.false
+
+Rule#
+Humidity.normal ; PlayTennis.P -> Windy.false
+
+Rule#
+PlayTennis.P -> Humidity.normal ; Windy.true 
+
+Rule#
+Windy.true -> Humidity.normal
+
+Rule#
+Windy.true ; PlayTennis.P -> Humidity.normal
+
+Rule#
+Humidity.normal -> Windy.true 
+
+Rule#
+Humidity.normal ; PlayTennis.P -> Windy.true 
+
+Rule#
+PlayTennis.P -> temperature.mild ; Humidity.high ; Windy.false
+
+Rule#
+Windy.false -> temperature.mild ; Humidity.high
+
+Rule#
+Windy.false ; PlayTennis.P -> temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> temperature.mild ; Windy.false
+
+Rule#
+Humidity.high ; PlayTennis.P -> temperature.mild ; Windy.false
+
+Rule#
+Humidity.high ; Windy.false -> temperature.mild
+
+Rule#
+temperature.mild -> Humidity.high ; Windy.false
+
+Rule#
+temperature.mild ; PlayTennis.P -> Humidity.high ; Windy.false
+
+Rule#
+temperature.mild ; Windy.false -> Humidity.high
+
+Rule#
+temperature.mild ; Humidity.high ->  ; Windy.false
+
+Rule#
+Windy.true -> outlook.overcast ; temperature.mild ; Windy.false
+
+Rule#
+Windy.false -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast ; Windy.false
+
+Rule#
+temperature.mild ; Windy.true -> outlook.overcast ; Windy.false
+
+Rule#
+temperature.mild ; Windy.false -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild ; Windy.false
+
+Rule#
+PlayTennis.P -> temperature.mild ; Humidity.high ; Windy.true 
+
+Rule#
+Windy.true -> temperature.mild ; Humidity.high
+
+Rule#
+Windy.true ; PlayTennis.P -> temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> temperature.mild ; Windy.true 
+
+Rule#
+Humidity.high ; PlayTennis.P -> temperature.mild ; Windy.true 
+
+Rule#
+Humidity.high ; Windy.true -> temperature.mild
+
+Rule#
+temperature.mild -> Humidity.high ; Windy.true 
+
+Rule#
+temperature.mild ; PlayTennis.P -> Humidity.high ; Windy.true 
+
+Rule#
+temperature.mild ; Windy.true -> Humidity.high
+
+Rule#
+temperature.mild ; Humidity.high ->  ; Windy.true 
+
+Rule#
+Windy.false -> outlook.sunny ; temperature.hot ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; temperature.hot
+
+Rule#
+Humidity.high ; Windy.false -> outlook.sunny ; temperature.hot
+
+Rule#
+temperature.hot -> outlook.sunny ; Humidity.high
+
+Rule#
+temperature.hot ; Windy.false -> outlook.sunny ; Humidity.high
+
+Rule#
+temperature.hot ; Humidity.high -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.hot ; Humidity.high
+
+Rule#
+outlook.sunny ; Windy.false -> temperature.hot ; Humidity.high
+
+Rule#
+outlook.sunny ; Humidity.high -> temperature.hot
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Windy.true ; PlayTennis.N 
+
+Rule#
+PlayTennis.N -> outlook.sunny ; Windy.true 
+
+Rule#
+Windy.true -> outlook.sunny ; PlayTennis.N 
+
+Rule#
+Windy.true ; PlayTennis.P -> outlook.sunny ; PlayTennis.N 
+
+Rule#
+Windy.true ; PlayTennis.N -> outlook.sunny
+
+Rule#
+outlook.sunny -> Windy.true ; PlayTennis.N 
+
+Rule#
+outlook.sunny ; PlayTennis.N -> Windy.true 
+
+Rule#
+PlayTennis.P -> outlook.overcast ; Humidity.high ; Windy.true 
+
+Rule#
+Windy.true -> outlook.overcast ; Humidity.high
+
+Rule#
+Windy.true ; PlayTennis.P -> outlook.overcast ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.overcast ; Windy.true 
+
+Rule#
+Humidity.high ; PlayTennis.P -> outlook.overcast ; Windy.true 
+
+Rule#
+Humidity.high ; Windy.true -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.high ; Windy.true 
+
+Rule#
+outlook.overcast ; PlayTennis.P -> Humidity.high ; Windy.true 
+
+Rule#
+PlayTennis.P -> Humidity.high ; Windy.true ; PlayTennis.N 
+
+Rule#
+PlayTennis.N -> Humidity.high ; Windy.true 
+
+Rule#
+Windy.true -> Humidity.high ; PlayTennis.N 
+
+Rule#
+Windy.true ; PlayTennis.P -> Humidity.high ; PlayTennis.N 
+
+Rule#
+Windy.true ; PlayTennis.N -> Humidity.high
+
+Rule#
+Humidity.high -> Windy.true ; PlayTennis.N 
+
+Rule#
+Humidity.high ; PlayTennis.P -> Windy.true ; PlayTennis.N 
+
+Rule#
+Humidity.high ; PlayTennis.N -> Windy.true 
+
+Rule#
+Humidity.high ; Windy.true ->  ; PlayTennis.N 
+
+Rule#
+Windy.false -> outlook.sunny ; temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; temperature.mild
+
+Rule#
+Humidity.high ; Windy.false -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny ; Humidity.high
+
+Rule#
+temperature.mild ; Windy.false -> outlook.sunny ; Humidity.high
+
+Rule#
+temperature.mild ; Humidity.high -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild ; Humidity.high
+
+Rule#
+outlook.sunny ; Windy.false -> temperature.mild ; Humidity.high
+
+Rule#
+outlook.sunny ; Humidity.high -> temperature.mild
+
+Rule#
+PlayTennis.P -> outlook.sunny ; temperature.cool ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.sunny ; temperature.cool
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.sunny ; temperature.cool
+
+Rule#
+temperature.cool -> outlook.sunny ; Humidity.normal
+
+Rule#
+temperature.cool ; PlayTennis.P -> outlook.sunny ; Humidity.normal
+
+Rule#
+temperature.cool ; Humidity.normal -> outlook.sunny
+
+Rule#
+temperature.cool ; Humidity.normal ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.cool ; Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.overcast ; temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.overcast ; temperature.mild
+
+Rule#
+Humidity.high ; PlayTennis.P -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast ; Humidity.high
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.overcast ; Humidity.high
+
+Rule#
+temperature.mild ; Humidity.high -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild ; Humidity.high
+
+Rule#
+outlook.overcast ; PlayTennis.P -> temperature.mild ; Humidity.high
+
+Rule#
+PlayTennis.P -> outlook.overcast ; Humidity.high ; Windy.false
+
+Rule#
+Windy.false -> outlook.overcast ; Humidity.high
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.overcast ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.overcast ; Windy.false
+
+Rule#
+Humidity.high ; PlayTennis.P -> outlook.overcast ; Windy.false
+
+Rule#
+Humidity.high ; Windy.false -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.high ; Windy.false
+
+Rule#
+outlook.overcast ; PlayTennis.P -> Humidity.high ; Windy.false
+
+Rule#
+PlayTennis.P -> outlook.overcast ; Humidity.normal ; Windy.false
+
+Rule#
+Windy.false -> outlook.overcast ; Humidity.normal
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.overcast ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.overcast ; Windy.false
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.overcast ; Windy.false
+
+Rule#
+Humidity.normal ; Windy.false -> outlook.overcast
+
+Rule#
+Humidity.normal ; Windy.false ; PlayTennis.P -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.normal ; Windy.false
+
+Rule#
+outlook.overcast ; PlayTennis.P -> Humidity.normal ; Windy.false
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Humidity.high ; Windy.false
+
+Rule#
+Windy.false -> outlook.sunny ; Humidity.high
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.high ; PlayTennis.P -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.high ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high ; Windy.false
+
+Rule#
+outlook.sunny ; Windy.false -> Humidity.high
+
+Rule#
+outlook.sunny ; Humidity.high ->  ; Windy.false
+
+Rule#
+PlayTennis.P -> outlook.rain ; Humidity.normal ; Windy.false
+
+Rule#
+Windy.false -> outlook.rain ; Humidity.normal
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.rain ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.rain ; Windy.false
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.rain ; Windy.false
+
+Rule#
+Humidity.normal ; Windy.false -> outlook.rain
+
+Rule#
+Humidity.normal ; Windy.false ; PlayTennis.P -> outlook.rain
+
+Rule#
+outlook.rain -> Humidity.normal ; Windy.false
+
+Rule#
+outlook.rain ; PlayTennis.P -> Humidity.normal ; Windy.false
+
+Rule#
+outlook.rain ; Windy.false -> Humidity.normal
+
+Rule#
+outlook.rain ; Windy.false ; PlayTennis.P -> Humidity.normal
+
+Rule#
+outlook.rain ; Humidity.normal ->  ; Windy.false
+
+Rule#
+PlayTennis.N -> outlook.sunny ; Humidity.high ; Windy.false
+
+Rule#
+Windy.false -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.high ; PlayTennis.N -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.high ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high ; Windy.false
+
+Rule#
+outlook.sunny ; PlayTennis.N -> Humidity.high ; Windy.false
+
+Rule#
+outlook.sunny ; Windy.false -> Humidity.high
+
+Rule#
+outlook.sunny ; Humidity.high ->  ; Windy.false
+
+Rule#
+outlook.sunny ; Humidity.high ; PlayTennis.N ->  ; Windy.false
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Humidity.normal ; Windy.false
+
+Rule#
+Windy.false -> outlook.sunny ; Humidity.normal
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.sunny ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.normal ; Windy.false -> outlook.sunny
+
+Rule#
+Humidity.normal ; Windy.false ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.normal ; Windy.false
+
+Rule#
+outlook.sunny ; Windy.false -> Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.sunny ; temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; temperature.mild
+
+Rule#
+Humidity.high ; PlayTennis.P -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny ; Humidity.high
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.sunny ; Humidity.high
+
+Rule#
+temperature.mild ; Humidity.high -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild ; Humidity.high
+
+Rule#
+outlook.sunny ; Humidity.high -> temperature.mild
+
+Rule#
+PlayTennis.P -> outlook.overcast ; temperature.cool ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.overcast ; temperature.cool
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.overcast ; temperature.cool
+
+Rule#
+temperature.cool -> outlook.overcast ; Humidity.normal
+
+Rule#
+temperature.cool ; PlayTennis.P -> outlook.overcast ; Humidity.normal
+
+Rule#
+temperature.cool ; Humidity.normal -> outlook.overcast
+
+Rule#
+temperature.cool ; Humidity.normal ; PlayTennis.P -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.cool ; Humidity.normal
+
+Rule#
+outlook.overcast ; PlayTennis.P -> temperature.cool ; Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.sunny ; temperature.mild ; Windy.true 
+
+Rule#
+Windy.true -> outlook.sunny ; temperature.mild
+
+Rule#
+Windy.true ; PlayTennis.P -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny ; Windy.true 
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.sunny ; Windy.true 
+
+Rule#
+temperature.mild ; Windy.true -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild ; Windy.true 
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Humidity.normal ; Windy.true 
+
+Rule#
+Windy.true -> outlook.sunny ; Humidity.normal
+
+Rule#
+Windy.true ; PlayTennis.P -> outlook.sunny ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.sunny ; Windy.true 
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.sunny ; Windy.true 
+
+Rule#
+Humidity.normal ; Windy.true -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.normal ; Windy.true 
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Humidity.high ; PlayTennis.N 
+
+Rule#
+PlayTennis.N -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; PlayTennis.N 
+
+Rule#
+Humidity.high ; PlayTennis.P -> outlook.sunny ; PlayTennis.N 
+
+Rule#
+Humidity.high ; PlayTennis.N -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high ; PlayTennis.N 
+
+Rule#
+outlook.sunny ; PlayTennis.N -> Humidity.high
+
+Rule#
+outlook.sunny ; Humidity.high ->  ; PlayTennis.N 
+
+Rule#
+Windy.true -> outlook.sunny ; temperature.mild ; Windy.false
+
+Rule#
+Windy.false -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny ; Windy.false
+
+Rule#
+temperature.mild ; Windy.true -> outlook.sunny ; Windy.false
+
+Rule#
+temperature.mild ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild ; Windy.false
+
+Rule#
+outlook.sunny ; Windy.false -> temperature.mild
+
+Rule#
+PlayTennis.P -> outlook.overcast ; temperature.mild ; Windy.false
+
+Rule#
+Windy.false -> outlook.overcast ; temperature.mild
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast ; Windy.false
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.overcast ; Windy.false
+
+Rule#
+temperature.mild ; Windy.false -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild ; Windy.false
+
+Rule#
+outlook.overcast ; PlayTennis.P -> temperature.mild ; Windy.false
+
+Rule#
+Windy.true -> temperature.mild ; Humidity.high ; Windy.false
+
+Rule#
+Windy.false -> temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> temperature.mild ; Windy.false
+
+Rule#
+Humidity.high ; Windy.true -> temperature.mild ; Windy.false
+
+Rule#
+Humidity.high ; Windy.false -> temperature.mild
+
+Rule#
+temperature.mild -> Humidity.high ; Windy.false
+
+Rule#
+temperature.mild ; Windy.true -> Humidity.high ; Windy.false
+
+Rule#
+temperature.mild ; Windy.false -> Humidity.high
+
+Rule#
+temperature.mild ; Humidity.high ->  ; Windy.false
+
+Rule#
+PlayTennis.P -> outlook.rain ; temperature.mild ; Windy.false
+
+Rule#
+Windy.false -> outlook.rain ; temperature.mild
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.rain ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.rain ; Windy.false
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.rain ; Windy.false
+
+Rule#
+temperature.mild ; Windy.false -> outlook.rain
+
+Rule#
+outlook.rain -> temperature.mild ; Windy.false
+
+Rule#
+outlook.rain ; PlayTennis.P -> temperature.mild ; Windy.false
+
+Rule#
+outlook.rain ; Windy.false -> temperature.mild
+
+Rule#
+outlook.rain ; Windy.false ; PlayTennis.P -> temperature.mild
+
+Rule#
+outlook.rain ; temperature.mild ->  ; Windy.false
+
+Rule#
+PlayTennis.P -> outlook.overcast ; temperature.mild ; Windy.true 
+
+Rule#
+Windy.true -> outlook.overcast ; temperature.mild
+
+Rule#
+Windy.true ; PlayTennis.P -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast ; Windy.true 
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.overcast ; Windy.true 
+
+Rule#
+temperature.mild ; Windy.true -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild ; Windy.true 
+
+Rule#
+outlook.overcast ; PlayTennis.P -> temperature.mild ; Windy.true 
+
+Rule#
+PlayTennis.P -> outlook.overcast ; Humidity.normal ; Windy.true 
+
+Rule#
+Windy.true -> outlook.overcast ; Humidity.normal
+
+Rule#
+Windy.true ; PlayTennis.P -> outlook.overcast ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.overcast ; Windy.true 
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.overcast ; Windy.true 
+
+Rule#
+Humidity.normal ; Windy.true -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.normal ; Windy.true 
+
+Rule#
+outlook.overcast ; PlayTennis.P -> Humidity.normal ; Windy.true 
+
+Rule#
+Windy.true -> outlook.overcast ; Humidity.normal ; Windy.false
+
+Rule#
+Windy.false -> outlook.overcast ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.overcast ; Windy.false
+
+Rule#
+Humidity.normal ; Windy.true -> outlook.overcast ; Windy.false
+
+Rule#
+Humidity.normal ; Windy.false -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.normal ; Windy.false
+
+Rule#
+Windy.true -> outlook.sunny ; Humidity.high ; Windy.false
+
+Rule#
+Windy.false -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.high ; Windy.true -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.high ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high ; Windy.false
+
+Rule#
+outlook.sunny ; Windy.false -> Humidity.high
+
+Rule#
+outlook.sunny ; Humidity.high ->  ; Windy.false
+
+Rule#
+PlayTennis.N -> outlook.sunny ; Humidity.high ; Windy.true 
+
+Rule#
+Windy.true -> outlook.sunny ; Humidity.high
+
+Rule#
+Windy.true ; PlayTennis.N -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; Windy.true 
+
+Rule#
+Humidity.high ; PlayTennis.N -> outlook.sunny ; Windy.true 
+
+Rule#
+Humidity.high ; Windy.true -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high ; Windy.true 
+
+Rule#
+outlook.sunny ; PlayTennis.N -> Humidity.high ; Windy.true 
+
+Rule#
+outlook.sunny ; Humidity.high ->  ; Windy.true 
+
+Rule#
+outlook.sunny ; Humidity.high ; PlayTennis.N ->  ; Windy.true 
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Humidity.high ; Windy.true 
+
+Rule#
+Windy.true -> outlook.sunny ; Humidity.high
+
+Rule#
+Windy.true ; PlayTennis.P -> outlook.sunny ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; Windy.true 
+
+Rule#
+Humidity.high ; PlayTennis.P -> outlook.sunny ; Windy.true 
+
+Rule#
+Humidity.high ; Windy.true -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.high ; Windy.true 
+
+Rule#
+outlook.sunny ; Humidity.high ->  ; Windy.true 
+
+Rule#
+Windy.true -> outlook.overcast ; Humidity.high ; Windy.false
+
+Rule#
+Windy.false -> outlook.overcast ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.overcast ; Windy.false
+
+Rule#
+Humidity.high ; Windy.true -> outlook.overcast ; Windy.false
+
+Rule#
+Humidity.high ; Windy.false -> outlook.overcast
+
+Rule#
+outlook.overcast -> Humidity.high ; Windy.false
+
+Rule#
+Windy.true -> outlook.overcast ; temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.overcast ; temperature.mild
+
+Rule#
+Humidity.high ; Windy.true -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast ; Humidity.high
+
+Rule#
+temperature.mild ; Windy.true -> outlook.overcast ; Humidity.high
+
+Rule#
+temperature.mild ; Humidity.high -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild ; Humidity.high
+
+Rule#
+Windy.true -> outlook.sunny ; temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.sunny ; temperature.mild
+
+Rule#
+Humidity.high ; Windy.true -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny ; Humidity.high
+
+Rule#
+temperature.mild ; Windy.true -> outlook.sunny ; Humidity.high
+
+Rule#
+temperature.mild ; Humidity.high -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild ; Humidity.high
+
+Rule#
+outlook.sunny ; Humidity.high -> temperature.mild
+
+Rule#
+Windy.true -> outlook.sunny ; Humidity.normal ; Windy.false
+
+Rule#
+Windy.false -> outlook.sunny ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.normal ; Windy.true -> outlook.sunny ; Windy.false
+
+Rule#
+Humidity.normal ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.normal ; Windy.false
+
+Rule#
+outlook.sunny ; Windy.false -> Humidity.normal
+
+Rule#
+Windy.false -> outlook.overcast ; temperature.mild ; Humidity.high
+
+Rule#
+Humidity.high -> outlook.overcast ; temperature.mild
+
+Rule#
+Humidity.high ; Windy.false -> outlook.overcast ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.overcast ; Humidity.high
+
+Rule#
+temperature.mild ; Windy.false -> outlook.overcast ; Humidity.high
+
+Rule#
+temperature.mild ; Humidity.high -> outlook.overcast
+
+Rule#
+outlook.overcast -> temperature.mild ; Humidity.high
+
+Rule#
+PlayTennis.P -> outlook.sunny ; temperature.mild ; Windy.false
+
+Rule#
+Windy.false -> outlook.sunny ; temperature.mild
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.sunny ; temperature.mild
+
+Rule#
+temperature.mild -> outlook.sunny ; Windy.false
+
+Rule#
+temperature.mild ; PlayTennis.P -> outlook.sunny ; Windy.false
+
+Rule#
+temperature.mild ; Windy.false -> outlook.sunny
+
+Rule#
+outlook.sunny -> temperature.mild ; Windy.false
+
+Rule#
+outlook.sunny ; Windy.false -> temperature.mild

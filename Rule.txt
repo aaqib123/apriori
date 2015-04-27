@@ -1,0 +1,63 @@
+Summary:Total rows in the original set:15
+Total rules discovered: 19
+The selected measures: Support=0.3 Confidence=0.3
+---------------------------------------------------------
+Rules:
+
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<overcast ; overcast> -> <sunny ; sunny> ; <sunny
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+<sunny ; sunny> ->  ;  ;  ; overcast>
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Humidity.normal
+
+Rule#
+Humidity.normal -> outlook.sunny
+
+Rule#
+Humidity.normal ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> Humidity.normal
+
+Rule#
+PlayTennis.P -> outlook.sunny ; Windy.false
+
+Rule#
+Windy.false -> outlook.sunny
+
+Rule#
+Windy.false ; PlayTennis.P -> outlook.sunny
+
+Rule#
+outlook.sunny -> Windy.false
